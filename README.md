@@ -1,0 +1,2 @@
+# Automation
+## In this lab I should make a app which read any text fill and get all eamils and phone numbers and sorting them after that I should creat new files for emalis and phone numbers whcih have my sorted data.
